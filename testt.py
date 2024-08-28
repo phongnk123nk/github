@@ -1,1 +1,1 @@
-print("asda")
+print("xin chao")
